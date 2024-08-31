@@ -1,5 +1,5 @@
 ### [ ` g a m e w o r k s ` ](https://github.com/scrollingbot/gameworks)
-<p>u i &nbsp s i d e m o n e y </p>
+<p>u i &nbsp f r a m e w o r k </p>
 
 
 **g a m e w o r k s** is a ui component library for [`s v e l t e k i t`](https://kit.svelte.dev/).
@@ -8,7 +8,7 @@
 <p>g e t &nbsp  s t a r t e d :</p>
 
 ```bash
-npm i gameworks
+npm i sidemoney
 ```
 
 [`g a m e w o r k s`](https://github.com/scrollingbot/gameworks) uses regular J S for layout components and [`w e b a s s e m b l y`](https://webassembly.org/) for animated components.
