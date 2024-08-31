@@ -1,5 +1,5 @@
 ### [ ` g a m e w o r k s ` ](https://github.com/scrollingbot/gameworks)
-<p>u i &nbsp f r a m e w o r k</p>
+<p>u i &nbsp s i d e m o n e y </p>
 
 
 **g a m e w o r k s** is a ui component library for [`s v e l t e k i t`](https://kit.svelte.dev/).
