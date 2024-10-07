@@ -11,8 +11,6 @@
 npm i sidemoney
 ```
 
-[`g a m e w o r k s`](https://github.com/scrollingbot/gameworks) uses regular J S for layout components and [`w e b a s s e m b l y`](https://webassembly.org/) for animated components.
-
 To use the layout components, create a css file `src/app.css`:
 
 ```css
